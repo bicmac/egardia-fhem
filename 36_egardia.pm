@@ -131,7 +131,7 @@ sub egardia_Read($)
 <a name="egardia"></a>
 <h3>egardia</h3>
 <ul>
-  This module allows to receive egardia tcp events sent by the hijacked egardia GATE-01<br>
+  This module allows to receive egardia tcp events sent by the hijacked egardia GATE-01 (Other Versions not tested)<br>
   <br>
   <br>
   <a name="egardiaDefine"></a>
